@@ -2,8 +2,6 @@
    to find the first and last digit of a number
 */
 
-
-
 public class Main{
     public static void main(String[] args)
     {
@@ -35,4 +33,4 @@ public class Main{
   Enter the number:566
   The First Digit of a Given Number 566 is 5
   The Last Digit of a Given Number 566 is 6
- */
+*/
