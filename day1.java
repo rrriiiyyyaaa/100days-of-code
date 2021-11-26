@@ -19,7 +19,15 @@ public class Main{
         lastdigit = num % 10;
         
         //printing the first and last digit
-        System.out.println("\n The First Digit of a Given Number " + num + "  =  " + firstdigit);
-		System.out.println("\n The Last Digit of a Given Number " + num + "  =  " + lastdigit);
+        System.out.println("The First Digit of a Given Number " + num + "  =  " + firstdigit);
+		System.out.println("The Last Digit of a Given Number " + num + "  =  " + lastdigit);
     }
 }
+
+//OUTPUT-
+/*
+
+  Enter the number:566
+  The First Digit of a Given Number 566 is 5
+  The Last Digit of a Given Number 566 is 6
+ */
