@@ -19,7 +19,6 @@ public class Main{
         System.out.print("The sum of these numbers are"+sum);
     } 
 }
-
 /*
   Output-
 Enter 10 numbers:1
