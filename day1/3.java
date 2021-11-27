@@ -23,7 +23,7 @@ public class Main {
 }
 /*
 Output
-
+*/
 //Using recursion:
 import java.util.Scanner;
 public class Main {
