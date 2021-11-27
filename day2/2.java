@@ -1,5 +1,5 @@
 /*
-Write a program to check wether thecharacter entered is uppercase or lowercase.
+Write a program to check wether the character entered is uppercase or lowercase.
 */
 
 
