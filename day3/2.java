@@ -24,7 +24,6 @@ public class Main
 		
 	}
 }
-
 /*
 A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
 Ask user for quantity
