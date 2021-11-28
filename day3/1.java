@@ -24,3 +24,4 @@ Output-
    Enter the number whose sum of digits is to found
    12345678
    The sum of digits is: 36
+  
