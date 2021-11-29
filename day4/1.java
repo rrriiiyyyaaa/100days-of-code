@@ -1,5 +1,5 @@
 /*
-
+   Check if the year entered is leap year or not.
 */
 
 import java.util.Scanner;
