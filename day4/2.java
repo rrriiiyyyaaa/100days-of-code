@@ -21,8 +21,6 @@ public class Main{
 		System.out.println("Enter sex: M/F");
 		int sex = sc.next().charAt(0);
 		
-		
-		
 		// checking if user is female
 		if(sex == 'F') {
 			System.out.println("You will work in urban areas");
