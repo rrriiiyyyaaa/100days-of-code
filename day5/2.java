@@ -7,7 +7,7 @@ public class Main
 		int n = sc.nextInt();                              //7
 		while(n>0)                                          // 7>0 -true (enters loop)
 		{
-		    System.out.print(n + " ");                        //7
+		    System.out.print("The natural no.s from "+n + "to 1 are: ");                        //7
 		                                                         
 		    n--;                                                  //7-1 = 6(continue loop)
 		}
