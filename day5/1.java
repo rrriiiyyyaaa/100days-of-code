@@ -6,8 +6,8 @@ public class Main
 		System.out.println("Enter the n value");
 		int n = sc.nextInt();
 		
-		System.out.println(" The natural numbers from"+ n + "to 1 are:");
-		for (int i=n;i>=1 ;i-- )
+		System.out.println(" The natural numbers from 1 to "+ n + " are:");
+		for (int i=1;i<=n ;i++ )
 		{
 		    System.out.print(i + " ");
 		}
