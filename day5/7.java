@@ -36,3 +36,14 @@ public class Main
         System.out.println("reverse: " + sb.reverse());  
 	}
 }
+
+//Using string builder
+
+public class Main {  
+    public static void main(String[] args) {  
+        StringBuilder sb = new StringBuilder("Riya");  
+        System.out.println("string = " + sb);  
+        // reversing of stringbuilder  
+        System.out.println("reverse = " + sb.reverse());  
+    }  
+}
