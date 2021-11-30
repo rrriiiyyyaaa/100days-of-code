@@ -16,7 +16,5 @@ public class Main
 		}
 		
 		 System.out.println("The first digit is: "+fd);
-		  
-		
 	}
 }
