@@ -24,3 +24,15 @@ public class Main
 		System.out.println("The reverse of this number is "+rev);                 
 	}
 }
+
+// Using String Buffer
+
+public class Main
+{
+	public static void main(String[] args) {
+	    StringBuffer sb = new StringBuffer("1334");  
+        System.out.println("string: " + sb);  
+        // reversing of stringbuffer  
+        System.out.println("reverse: " + sb.reverse());  
+	}
+}
