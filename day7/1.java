@@ -14,7 +14,7 @@ public class Main
 		System.out.println("Enter 2nd no.: ");
 		int b = sc.nextInt();
 		
-		for (int i=1; i<=a || i<=b ;i++ )                       //set loop from 1 to max of a and b
+		for (int i=1; i<=a && i<=b ;i++ )                       //set loop from 1 to max of a and b
 		{                                          
 		    if(a%i==0 && b%i ==0)                               //check if both are completely divided by the same loop
 		    hcf =i;                                             //of yes, display the stored number in haf
