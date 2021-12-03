@@ -21,7 +21,7 @@ public class Main
 	        }
 	        else 
 	        {
-	            i++;                                       //i=3                      i=4  (loop terminates as 1%2 = )
+	            i++;                                       //i=3                      i=4  (loop terminates as 1%2 !=0 )
 	        }
 	    }
 	    
