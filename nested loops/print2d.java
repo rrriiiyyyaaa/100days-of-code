@@ -4,7 +4,7 @@ public class Main{
         int original[][]={{1,3,4},{2,4,3},{3,4,5}};    
     
         
-        int transpose[][]=new int[3][3];  //3 rows and 3 columns  
+        
     
 
         System.out.println("Printing 2d arrays: ");  
