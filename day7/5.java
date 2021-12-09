@@ -20,7 +20,6 @@ public class Main {
             sum += Math.pow(r, 3);
             temp =temp/10;
         }
-
         if(sum == number)
             System.out.println(number + " is an Armstrong number.");
         else
