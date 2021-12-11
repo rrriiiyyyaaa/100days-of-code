@@ -4,7 +4,6 @@ Algorithm-
 2.calling function with index.
 /*
 
-
 import java.util.Scanner;
 public class Main
 {
